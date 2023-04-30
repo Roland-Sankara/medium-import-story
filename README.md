@@ -1,5 +1,5 @@
-# Medium Story imports 
-Medium provides us the importa story feature which we can use to import our backdated stories from any other source.
+# Medium Story import
+Medium provides us the: **import a story** feature, which we can use to import our backdated stories from any other source.
 This repository contains some test stories to demo story import via github pages.
 
 ### Update time stamp
